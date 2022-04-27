@@ -8,4 +8,4 @@ Proyectos desarrollados en la semana 3:
 |`spiderverse`|2|[Link al repo](https://github.com/Buwar88/Spiderverse)|
 |`twitter`|3, 4, 5|[Link al repo](https://github.com/Buwar88/twitter)|
 |`express_basic`|6|[Link al repo](https://github.com/Buwar88/express_basic)|
-|`express_api`|7|[Link al repo](../../examples/week3/content/express_api)|
+|`express_api`|7|[Link al repo](https://github.com/Buwar88/express_api)|
